@@ -12,7 +12,7 @@ I'm a **dual major in Business Administration and AI Software**, striving to bri
 
 - **Projects**: [Fine Dust Korea Data Analysis](https://github.com/Adam-Junsuk/FIne_Dust_Korea_Data_analysis)
 - **Tech Stack**: Jupyter Notebook, CSV, Excel
-- **Description**: Leveraged my analytical skills to preprocess and analyze fine dust data.
+- **Description**: Leveraged my analytical skills to preprocess and analyze fine dust data. (At the time didn't know any about coding)
 
 ### 💹 Financial Data Analysis
 
