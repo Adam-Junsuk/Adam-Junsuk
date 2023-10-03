@@ -8,6 +8,16 @@ I'm a **dual major in Business Administration and AI Software**, striving to bri
 
 ## 🛠 Skills & Experience
 
+### [Trello Clone with NestJS & Prisma](https://github.com/Adam-Junsuk/trello_clone_nest_prisma)
+- 🎨 프론트엔드 개발
+- 📧 E-amil verification sign-up 
+- 🃏 in charge of Cards realted API 
+- 🔍 Elasticsearch indexing, searching
+  - [카드 관련 코드](https://github.com/Adam-Junsuk/trello_clone_nest_prisma/blob/main/src/cards/cards.controller.ts)
+  - [이메일 인증 코드](https://github.com/Adam-Junsuk/trello_clone_nest_prisma/blob/main/src/auth-email/auth.controller.ts)
+  - [Elasticsearch 코드](https://github.com/Adam-Junsuk/trello_clone_nest_prisma/blob/main/src/search/search.service.ts)
+
+
 ### 📊 Data Analysis
 
 - **Projects**: [Fine Dust Korea Data Analysis](https://github.com/Adam-Junsuk/FIne_Dust_Korea_Data_analysis)
